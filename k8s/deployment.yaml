@@ -13,7 +13,7 @@ spec:
         app: tp-docker-hub-app
     spec:
       imagePullSecrets:
-        - name: test
+        - name: regcred
       containers:
         - name: web
           image: docker.io/alxndreduq/tp-docker-hub-app:1.0.0
