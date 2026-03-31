@@ -33,6 +33,7 @@ kubectl create secret docker-registry regcred \
 
 # Bonus
 ### replicas
+![alt text](image-11.png)
 ![alt text](image-4.png)
 
 ### request limit
